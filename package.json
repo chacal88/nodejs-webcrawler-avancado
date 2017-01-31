@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-webcrawler-avancado",
+  "version": "1.0.0",
+  "description": "Webcrawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaue Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "node-horseman": "^3.2.0",
+    "phantomjs": "^2.1.7",
+    "request": "^2.79.0",
+    "tesseract.js": "^1.0.10"
+  }
+}
